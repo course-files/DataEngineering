@@ -1,13 +1,13 @@
-# MIT8107 and BBT4206
+# BBT4206 and MIT8107
 
 These are course files (instructional materials) for both the **MIT8107: Advanced Database Systems** and the **BBT4206: Business Intelligence II** courses.
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
-| **Course Code**                                                       | MIT8107 and BBT4206                                                                                                                                                                            |
-| **Course Name**                                                       | Advanced Database Systems and Business Intelligence II, respectively                                                                                                                                                           |
-| **URL**                                                               | <https://elearning.strathmore.edu/course/view.php?id=3277> and <https://elearning.strathmore.edu/course/view.php?id=6599> respectively                                                                                                                         |
-| **Semester Duration**                                                 | 31<sup>st</sup> August 2023 to 1<sup>st</sup> December 2023 and 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023, respectively                                                                                                                       |
+| **Course Code**                                                       | BBT4206 and MIT8107                                                                                                                                                                            |
+| **Course Name**                                                       | Business Intelligence II and Advanced Database Systems, respectively                                                                                                                                                           |
+| **URL**                                                               | <https://elearning.strathmore.edu/course/view.php?id=6599> and <https://elearning.strathmore.edu/course/view.php?id=3277> respectively                                                                                                                         |
+| **Semester Duration**                                                 | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023 and 31<sup>st</sup> August 2023 to 1<sup>st</sup> December 2023, respectively                                                                                                                       |
 | **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
 | **Contact**                                                           | aomondi_at_strathmore_dot_edu                                                                                                                                                      |
 | **Recommended Citation (download [BibTex](RecommendedCitation.bib))** | Omondi, A. (2023). MIT8107-Docker-Lab5-DataEngineering [Shell]. https://github.com/course-files/MIT8107-Docker-Lab5-DataEngineering (Original work published 2023) |
