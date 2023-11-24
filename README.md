@@ -14,7 +14,7 @@ These are course files (instructional materials) for both the **MIT8107: Advance
 
 ## Lab Manual
 Please refer to the Lab Manual on Data Engineering available here for the detailed instructions:[https://elearning.strathmore.edu/](https://elearning.strathmore.edu/)
-![Lab Manual Screenshot](https://github.com/course-files/MIT8107-Docker-Lab5-DataEngineering/assets/137632706/881674e6-8217-4c45-9f4d-bc0cb2e81576)
+![image](https://github.com/course-files/BBT4206-Shell-Lab19-DataEngineering/assets/137632706/22c33671-8bd5-4929-ad00-b2fc93592456)
 
 ## Technology Stack
 
