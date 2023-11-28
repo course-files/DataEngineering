@@ -10,8 +10,7 @@ These are course files (instructional materials) for both the **MIT8107: Advance
 | **Semester Duration**                                                 | 21<sup>st</sup> August 2023 to 28<sup>th</sup> November 2023 and 31<sup>st</sup> August 2023 to 1<sup>st</sup> December 2023, respectively                                                                                                                       |
 | **Lecturer**                                                          | Allan Omondi                                                                                                                                                                       |
 | **Contact**                                                           | aomondi_at_strathmore_dot_edu                                                                                                                                                      |
-| **Recommended Citation (download [BibTex](RecommendedCitation.bib))** | Omondi, A. (2023). BBT4206-Shell-Lab19-DataEngineering [Shell]. https://github.com/course-files/BBT4206-Shell-Lab19-DataEngineering (Original work published 2023)
- |
+| **Recommended Citation (download [BibTex](RecommendedCitation.bib))** | Omondi, A. (2023). BBT4206-Shell-Lab19-DataEngineering [Shell]. https://github.com/course-files/BBT4206-Shell-Lab19-DataEngineering (Original work published 2023)  |
 
 ## Lab Manual
 Please refer to the Lab Manual on Data Engineering available here for the detailed instructions:[https://elearning.strathmore.edu/](https://elearning.strathmore.edu/)
