@@ -17,7 +17,7 @@ services:
       # (1) heartbeats (to detect the liveliness of nodes in the cluster) and
       # (2) timeouts (If a client does not receive a heartbeat within a certain
       # multiple of `ZOOKEEPER_TICK_TIME`, it may consider its session as
-      # expired and needs to re-establish a connection)
+      # expired and needs to re-establish a connection).
       # In this case, it is set to 2000 milliseconds (2 seconds).
       ZOOKEEPER_TICK_TIME: 2000
 
