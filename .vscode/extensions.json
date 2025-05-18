@@ -1,6 +1,6 @@
 {
     "recommendations": [
         "redhat.vscode-yaml",
-        "ms-azuretools.vscode-docker"
+        "ms-azuretools.vscode-containers"
     ]
 }

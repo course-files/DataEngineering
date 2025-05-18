@@ -50,5 +50,9 @@ rsconnect/
 
 # Ignored folders
 roughwork/
-mysql/var-lib-mysql/
-clickhouse/var-lib-clickhouse
+/container-volumes/clickhouse/var-lib-clickhouse
+
+/container-volumes/mysql/var-lib-mysql
+/container-volumes/mysql/var-log-mysql
+
+.cspell/custom-dictionary-workspace.txt

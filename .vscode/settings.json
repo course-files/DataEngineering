@@ -30,5 +30,20 @@
             "username": "root",
             "database": "mysql"
         }
-    ]
+    ],
+    "cSpell.words": [
+        "classicmodels",
+        "dbhistory",
+        "debezium",
+        "schemahistory",
+        "trathm"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:DataEngineering}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
 }

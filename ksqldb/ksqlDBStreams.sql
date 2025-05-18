@@ -8,7 +8,7 @@ CREATE STREAM orderdetails_stream (payload STRUCT<
   `quantityOrdered` INT,
   `priceEach` DOUBLE,
   `orderLineNumber` INT>)
- WITH (KAFKA_TOPIC='classicmodels.classicmodels.orderdetails',
+ WITH (KAFKA_TOPIC='orderdetails',
        KEY_FORMAT='JSON', VALUE_FORMAT='JSON',
        PARTITIONS=1);
 
@@ -21,7 +21,7 @@ CREATE STREAM orders_stream (payload STRUCT<
   `status` VARCHAR,
   `comments` STRING,
   `customerNumber` INT>)
- WITH (KAFKA_TOPIC='classicmodels.classicmodels.orders',
+ WITH (KAFKA_TOPIC='orders',
        KEY_FORMAT='JSON', VALUE_FORMAT='JSON',
        PARTITIONS=1);
 
@@ -36,7 +36,7 @@ CREATE STREAM products_stream (payload STRUCT<
   `quantityInStock` VARCHAR,
   `buyPrice` DOUBLE,
   `MSRP` DOUBLE>)
- WITH (KAFKA_TOPIC='classicmodels.classicmodels.products',
+ WITH (KAFKA_TOPIC='products',
        KEY_FORMAT='JSON', VALUE_FORMAT='JSON',
        PARTITIONS=1);
 
@@ -55,7 +55,7 @@ CREATE STREAM customers_stream (payload STRUCT<
   `country` VARCHAR,
   `salesRepEmployeeNumber` INT,
   `creditLimit` DOUBLE>)
- WITH (KAFKA_TOPIC='classicmodels.classicmodels.customers',
+ WITH (KAFKA_TOPIC='customers',
        KEY_FORMAT='JSON', VALUE_FORMAT='JSON',
        PARTITIONS=1);
 
@@ -63,6 +63,6 @@ CREATE STREAM customers_stream (payload STRUCT<
 CREATE STREAM productlines_stream (payload STRUCT<
   `productLine` VARCHAR,
   `textDescription` VARCHAR>)
- WITH (KAFKA_TOPIC='classicmodels.classicmodels.productlines',
+ WITH (KAFKA_TOPIC='productlines',
        KEY_FORMAT='JSON', VALUE_FORMAT='JSON',
        PARTITIONS=1);
