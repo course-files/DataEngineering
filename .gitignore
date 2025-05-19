@@ -50,6 +50,7 @@ rsconnect/
 
 # Ignored folders
 roughwork/
+lab_submission_answer/
 /container-volumes/clickhouse/var-lib-clickhouse
 
 /container-volumes/mysql/var-lib-mysql
