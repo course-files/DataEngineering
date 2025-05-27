@@ -55,5 +55,5 @@ lab_submission_answer/
 
 /container-volumes/mysql/var-lib-mysql
 /container-volumes/mysql/var-log-mysql
-
+/.idea
 .cspell/custom-dictionary-workspace.txt
